@@ -1,6 +1,7 @@
 // Mali Brunk
 // CS 145
 // Takes 3 integers and determines smallest value and average
+// I was using the wrong email oops
 
 import java.util.Scanner;
 
