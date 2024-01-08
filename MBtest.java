@@ -2,7 +2,7 @@
 // CS 145
 // Takes 3 integers and determines smallest value and average
 
-import java.util.*;
+import java.util.Scanner;
 
 public class MBtest {
     public static void main(String[] args) {
@@ -64,7 +64,5 @@ public class MBtest {
 
         double average = (sum / 3);
         return average;
-    }
-
-    
+    }   
 }
